@@ -26,6 +26,12 @@ https://github.com/ozgurkaplanturgut/YolorObjectDetectionAndCounting.git
 cd YolorObjectDetectionAndCounting
 pip3 install -r requirements
 ```
+
+If the above instructions gives error, you can do;
+1-) DOwnload this repo as a zip file
+2-) Extract the zip file
+3-) Then get in the extracted file and in terminal; pip3 install -r requirements
+
 After these points, you are free to run yolor_inference.py file.
 
 
