@@ -28,6 +28,7 @@ pip3 install -r requirements
 ```
 
 If the above instructions gives error, you can do;
+
 1-) Download this repo as a zip file
 
 2-) Extract the zip file
