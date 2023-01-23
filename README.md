@@ -9,7 +9,7 @@ implementation of paper - [You Only Learn One Representation: Unified Network fo
 
 ## About the repo
 
-This repo is the example of detecting objects via class-based inference structure and counting specified objects
+This repo is the example of detecting objects via class-based inference structure and counting specified objects, from WonKinYiu/yolor
 
 ## Pretrained weights
 
