@@ -1,6 +1,12 @@
 # YOLOR
 implementation of paper - [You Only Learn One Representation: Unified Network for Multiple Tasks](https://arxiv.org/abs/2105.04206)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/you-only-learn-one-representation-unified/real-time-object-detection-on-coco)](https://paperswithcode.com/sota/real-time-object-detection-on-coco?p=you-only-learn-one-representation-unified)
+
+![Unified Network](https://github.com/WongKinYiu/yolor/blob/main/figure/unifued_network.png)
+
+<img src="https://github.com/WongKinYiu/yolor/blob/main/figure/performance.png" height="480">
+
 ## About the repo
 
 This repo is the example of detecting objects via class-based inference structure and counting specified objects
