@@ -1,0 +1,30 @@
+# pip install -qr requirements.txt
+
+# base ----------------------------------------
+Cython
+matplotlib
+numpy
+opencv-python
+Pillow
+PyYAML
+scipy
+tensorboard
+torch
+torchvision
+tqdm
+
+# logging -------------------------------------
+# wandb
+
+# plotting ------------------------------------
+seaborn
+pandas
+
+# export --------------------------------------
+# coremltools
+# onnx
+# scikit-learn  # for coreml quantization
+
+# extras --------------------------------------
+thop  # FLOPS computation
+pycocotools  # COCO mAP
